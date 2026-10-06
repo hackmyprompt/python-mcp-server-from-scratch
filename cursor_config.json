@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "python-from-scratch": {
+      "command": "python3",
+      "args": [
+        "/ABSOLUTE/PATH/TO/python-mcp-server-from-scratch/server.py"
+      ]
+    }
+  }
+}
